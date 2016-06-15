@@ -13,7 +13,7 @@ Questions
 * 6/ DESIGN BUILD LAB
 * 7/ [HURTUBISE](https://docs.google.com/presentation/d/1V79o86-8r0QcEO6P0W2H2T67IuU6v3QhcKkpAPjaaLU/pub?start=false&loop=false&delayms=20000)
 * 8/ [MYFOOD](https://docs.google.com/presentation/d/1otuRNC45wvpaMAaYf7npgKEbH2I7tyDtqP6Egorm-RE/pub?start=false&loop=false&delayms=20000)
-* 9/ CIVIC WISE
+* 9/ [CIVIC WISE](https://docs.google.com/presentation/d/1S8rIMVbr5mWJUGX2_w1arw8bewu38Ooqh9rrujReK64/pub?start=false&loop=false&delayms=20000)
 * 10/ [FABRICATION PARAMETRIQUE](https://docs.google.com/presentation/d/1Snv6ApnIENyoMrQQd602ZCGmq45_o59uYlmog1NMNcE/pub?start=false&loop=false&delayms=20000)
 
 Questions 
