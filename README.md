@@ -2,12 +2,8 @@
 
 ## Session 1 19h30 
 * 1/ ABVENT
-Pascal Faucher 
 
 * 2/ [XTU](https://docs.google.com/presentation/d/17DYpqXpR3HmuEJ4oF-Gof9_0qj6E02IBxI3UiqKWEpM/pub?start=false&loop=false&delayms=20000)
-
-Mathias Lukacs
-http://www.x-tu.com/
 
 * 3/ [WATER LIGHT](https://docs.google.com/presentation/d/1qKkCdSTU3F6Iv6sso_wQnNWXSYmh1d30t49DLGd81IA/pub?start=false&loop=false&delayms=20000)
 * 2/ [XTREE](https://docs.google.com/presentation/d/1su_Nr9i0ye2EU48lFRsFDxSScbGZVsd9LceqsYwQc9A/pub?start=false&loop=false&delayms=20000)
